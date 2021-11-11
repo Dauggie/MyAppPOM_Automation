@@ -1,0 +1,15 @@
+20211111 13:06:42 DEBUG [main] base.Page Page.java67 - Initializing Config file
+20211111 13:06:42 DEBUG [main] base.Page Page.java71 - Initializing OR file
+20211111 13:06:45 DEBUG [main] base.Page Page.java100 - chrome Browser launched
+20211111 13:06:47 DEBUG [main] base.Page Page.java108 - Navigated to : https://my-worldchat.herokuapp.com/
+20211111 13:06:48 DEBUG [main] base.Page Page.java149 - Currently at webpage : WorldChat
+20211111 13:06:48 DEBUG [main] base.Page Page.java149 - Currently at webpage : WorldChat
+20211111 13:06:48 DEBUG [main] base.Page Page.java149 - Currently at webpage : WorldChat
+20211111 13:06:48 DEBUG [main] base.Page Page.java125 - Currently at webpage : WorldChat
+20211111 13:07:01 DEBUG [main] base.Page Page.java149 - Currently at webpage : Log in | MongoDB
+20211111 13:07:01 DEBUG [main] base.Page Page.java125 - Currently at webpage : Log in | MongoDB
+20211111 13:07:01 DEBUG [main] base.Page Page.java149 - Currently at webpage : Log in | MongoDB
+20211111 13:07:01 DEBUG [main] base.Page Page.java125 - Currently at webpage : Log in | MongoDB
+20211111 13:07:17 DEBUG [main] base.Page Page.java125 - Currently at webpage : Loading...
+20211111 13:07:20 DEBUG [main] base.Page Page.java125 - Currently at webpage : Data | Cloud: MongoDB Cloud
+20211111 13:07:25 DEBUG [main] base.Page Page.java192 - Test Execution Completed!
